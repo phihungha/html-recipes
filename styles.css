@@ -4,10 +4,11 @@
 
 .title {
     text-align: center;
-    background-color: rgb(0, 255, 174);
+    color: white;
+    background-color: rgb(0, 89, 255);
 }
 
 .image {
-    width: 200px;
+    width: 500px;
     height: auto;
 }
